@@ -5,4 +5,7 @@
 !*.ipynb
 !*.md
 !*.json
+!*.csv
 !.gitignore
+
+.ipynb_checkpoints
